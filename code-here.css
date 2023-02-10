@@ -1,15 +1,28 @@
 #classic {
 text-align:justify;
-padding
-  
+padding-top: 15px;
+padding-left:15px;
+padding-right:15px;
+font-weight: 500;
 }
 
 #modern {
-
+font-family:Arial, Helvetica, sans-serif;
+text-align: center;
+padding: 1em;
+background-color: rgba(254, 184, 8, 0.978);
+font-weight: 550;
 }
 
-#impact {
 
+#impact {
+font-family: Arial, Helvetica, sans-serif;
+background-color: lightgreen;
+border-style:double;
+border-width: 50 px;
+text-align: center;  
+padding: 1em; 
+font-weight: 500;
 }
 
 #elise {
