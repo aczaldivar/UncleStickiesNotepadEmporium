@@ -59,7 +59,7 @@ div[class^='notepad'] {
 }
 
 .notepad-container div {
-  background-color: lightgoldenrodyellow;
+  background-color: #f9fad6;
   width: 10em;
   height: 10em;
   margin: 5em auto;
@@ -77,7 +77,7 @@ div[class^='notepad'] {
 
 .notepad-details img {
   padding: 5em;
-
+  
 }
 
 .notepad-details .doubles-img {
@@ -97,4 +97,20 @@ footer {
 /*  override user default on scrool that can make stickies look weird */
 ::-webkit-scrollbar {
   display: none;
+}
+div #modern{
+  font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 1em;
+    background-color: rgb(242 215 75);
+    font-weight: 100;
+}
+
+div #impact{
+  border-width: 15px;
+  font-weight: 550;
+}
+div #elise{
+  background: #fdfaf1;
+  text-align: center;
 }
